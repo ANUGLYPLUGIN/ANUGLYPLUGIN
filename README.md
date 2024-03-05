@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I want to embrace open source project due to interset and enjoy coding(from 2024).
+- 😄 Techonolgy stack:
+   - Frontend: Basic knowledge of html5, css3, js, ts. Focus on react env more commonly, continue read react source code and design pattern. Basic experience with react native, have projects in ios part.(with swift)
+   - Backend: Use of java and spring env, nodejs and nestjs env. Interested in golang/rust and so on. Will next go to web3 development.
+
+- ⚡ Will keep on making pr when I have bugfix or new feature request in third-party project.
+
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ANUGLYPLUGIN&show_icons=true&theme=tokyonight" /> </div>
